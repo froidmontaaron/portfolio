@@ -259,7 +259,6 @@ https://www.coursera.org/
 - [link naar wix portfolio](https://aaronfroidmont.wixsite.com/house-of-sin)
 - [link naar linkedin profiel](www.linkedin.com/in/aaron-froidmont-88bb26235)
   
-[CV__Aaron.H.R.Froidmont](https://github.com/user-attachments/files/16857735/CV__Aaron.H.R.Froidmont.1.pdf)
 
 ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
 
